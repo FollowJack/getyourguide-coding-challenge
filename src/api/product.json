@@ -1,0 +1,116 @@
+{
+    "tours":[
+       {
+          "title":"German Tour: Parliament Quarter \u0026amp; Reichstag glass dome",
+          "price": "14",
+          "currency": "$",
+          "rating":"4.8",
+          "image" : "/assets/german-tour-parliament-quarter.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Skip the Line: Pergamon Museum Berlin Tickets",
+          "price": "21",
+          "currency": "$",
+          "rating":"4.8",
+          "image" : "/assets/PergamonMuseumBerlin.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Berlin WelcomeCard: Transport, Discounts \u0026amp; Guide Book",
+          "price": "10",
+          "currency": "$",
+          "rating":"4.6",
+          "image" : "/assets/berlin-welcomecard.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Skip the Line: Berlin TV Tower Ticket",
+          "price": "143",
+          "currency": "$",
+          "rating":"4.6",
+          "image" : "/assets/BerlinTVTower.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"1-Hour City Tour by Boat with Guaranteed Seating",
+          "price": "14",
+          "currency": "$",
+          "rating":"4.5",
+          "image" : "/assets/tour_img-338966-92.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Berlin Hop-on Hop-off Bus Tour: 1- or 2-Day Ticket",
+          "price": "210",
+          "currency": "$",
+          "rating":"4.3",
+          "image" : "/assets/bvg-top-tour-bus-gross01.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"German Tour: Reichstag with Plenary Chamber \u0026amp; Cuppola",
+          "price": "59",
+          "currency": "$",
+          "rating":"4.8",
+          "image" : "/assets/reichstag-building.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Berlin: 2.5-Hour Boat Tour Along the River Spree",
+          "price": "41",
+          "currency": "$",
+          "rating":"4.5",
+          "image" : "/assets/tour_img-1066973-68.jpg",
+          "isSpecialOffer":true
+       },
+       {
+          "title":"Museum Pass Berlin: 3-Day Entry to Over 40 Top Museums",
+          "price": "14",
+          "currency": "$",
+          "rating":"4.5",
+          "image" : "/assets/MuseumPassBerlin.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Reichstag: Rooftop Coffee Break at K\u00e4fer",
+          "price": "50",
+          "currency": "$",
+          "rating":"4.6",
+          "image" : "/assets/tour_img-830280-148.jpg",
+          "isSpecialOffer":true
+       },
+       {
+          "title":"Skip the Line: Neues Museum Berlin Tickets",
+          "price": "46",
+          "currency": "$",
+          "rating":"4.9",
+          "image" : "/assets/tour_img-467332-148.jpg",
+          "isSpecialOffer":true
+       },
+       {
+          "title":"German Tour: Reichstag with dome Chamber \u0026amp;",
+          "price": "87",
+          "currency": "$",
+          "rating":"4.8",
+          "image" : "/assets/ber-reichst-dome-nite-w_1000.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Berlin Hop-on Hop-off Bus Tour with Live Commentary",
+          "price": "8",
+          "currency": "$",
+          "rating":"4.3",
+          "image" : "/assets/hop-on-hop-off-bus-stromma.jpg",
+          "isSpecialOffer":false
+       },
+       {
+          "title":"Skip the Line: TV Tower Early Bird Tickets",
+          "price": "140",
+          "currency": "$",
+          "rating":"4.5",
+          "image" : "/assets/tvtower.jpg",
+          "isSpecialOffer":false
+       }
+    ]
+ }

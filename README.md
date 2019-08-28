@@ -1,6 +1,8 @@
-# vue-shop
+# Get Your Guide Challenge
+Purpose of this app is to have a searchable list of tours. 
 
-## Project setup
+## Get Started
+### Project setup
 ```
 npm install
 ```
@@ -24,6 +26,10 @@ npm run test
 ```
 npm run lint
 ```
+
+## Dependencies
+
+For full list of dependencies see ```package.json```.
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
