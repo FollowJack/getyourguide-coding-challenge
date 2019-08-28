@@ -13,6 +13,7 @@
         <StarRating
           :show-rating="false"
           :star-size="16"
+          :read-only="true"
           :rating="parseFloat(tour.rating)"
           :round-start-rating="false"
         />

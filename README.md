@@ -8,6 +8,9 @@ Users can:
 - Bookmark easily their favorite tours (mocked).
 - See special offers in form of a sale - emphasized with colors and banners.
 
+Further improvements:
+- Sort by ranking / price / special offers
+
 In general:
  - Thanks to styled components the overall design is themed and fully customizable during runtime. See: ```src/constants.js```
 
