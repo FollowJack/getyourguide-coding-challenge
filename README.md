@@ -3,7 +3,8 @@ Purpose of this app is to have a searchable list of tours.
 
 The user sees a compact list of tours.
 Users can:
-- search for a title. If not found then other tours are suggested (mocked).
+- search for a title. 
+- If not found then other tours are suggested (mocked).
 - bookmark easily their favorite tours (mocked).
 - see special offers in form of a sale - emphasized with colors and banner
 
