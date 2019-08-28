@@ -1,4 +1,4 @@
-# Get Your Guide Challenge
+# Get Your Guide Challenge 
 Purpose of this app is to have a searchable list of tours. 
 
 The user sees a compact list of tours.
@@ -9,6 +9,8 @@ Users can:
 
 In general:
  - Thanks to styled components the overall design is themed and fully customizable during runtime. See: ```src/constants.js```
+
+ Build in ca. 4:30h.
 
 ## Get Started
 ### Project setup
